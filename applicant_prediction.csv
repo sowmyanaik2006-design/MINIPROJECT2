@@ -1,0 +1,2 @@
+credit_score,loan_amount,predicted_eligibility,status
+400.0,300000.0,0,Loan Not Eligible
